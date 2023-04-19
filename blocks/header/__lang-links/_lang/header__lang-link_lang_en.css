@@ -1,0 +1,14 @@
+.header__lang-link_lang_ru {
+    display: block;
+    width: 29px;
+    height: 28px;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 28px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.header__lang-link_lang_ru:hover {
+    text-decoration: underline;
+}
