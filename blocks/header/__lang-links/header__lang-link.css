@@ -1,3 +1,15 @@
 .header__lang-link {
+    display: flex;
+    position: absolute;
+    margin: 46px 48px 0;
     color: #fff;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 28px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    text-decoration: underline;
 }
