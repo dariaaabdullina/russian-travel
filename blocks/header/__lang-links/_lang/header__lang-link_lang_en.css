@@ -1,4 +1,6 @@
 .header__lang-link_lang_ru {
+    display: flex;
+    margin: 46px 48px 0;
     width: 29px;
     height: 28px;
     font-weight: 400;
