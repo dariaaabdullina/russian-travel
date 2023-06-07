@@ -1,7 +1,19 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Regular.woff);
+    font-weight: normal;
+  }
+  
+@font-face {
+    font-family: 'Inter';
+    src: url(https://pictures.s3.yandex.net/frontend-developer/responsive/Inter-Bold.woff2);
+    font-weight: bold;
+  }
+
 .root {
     max-width: 1280px;
     margin: 0 auto;
     background-color:#2A2C2F;
-    font-family: 'inter';
+    font-family: 'Inter';
     color: #fff;
     }
