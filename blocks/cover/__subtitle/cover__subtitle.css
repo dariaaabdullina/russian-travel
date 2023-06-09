@@ -1,12 +1,10 @@
-.place__paragraph {
-    width: 484px;
+.cover__subtitle {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 29px;
-}
-
-.place__paragraph:first-of-type {
+    line-height: 22px;
+    text-align: center;
+    max-width: 360px;
     margin: 0;
 }
