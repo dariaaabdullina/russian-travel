@@ -1,6 +1,6 @@
 .logo_place_header {
     margin-top: 28px;
     margin-left: 48px;
-    width: 176px;
-    height: 52px;
+    min-width: 176px;
+    min-height: 52px;
 }
