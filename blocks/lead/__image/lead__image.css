@@ -1,6 +1,12 @@
 .lead__image {
-   width: 984px;
-   height: 615px;
+   max-width: 984px;
+   min-height: 615px;
    margin: 64px 148px 0 148px;
    margin-bottom: 0;    
+}
+
+@media (max-width: 1279px) {
+   .lead__image {
+      min-width: 928px;
+   }
 }

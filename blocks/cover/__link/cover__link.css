@@ -1,5 +1,5 @@
 .cover__link {
-    margin: 92px 0 92px 0;
+    margin: 92px auto 92px auto;
     max-width: 1184px;
     min-height: 740px;
     background-image: url(../../../images/cover-trains.jpg);
