@@ -4,3 +4,9 @@
     align-items: center;
     margin: 0 48px 24px 48px;
 }
+
+@media (max-width: 1023px) {
+    .footer__columns {
+        margin: 0 24px 24px 24px;
+    }
+}
