@@ -20,3 +20,10 @@
         margin-left: 24px;
     }
 }
+
+@media (max-width: 767px) {
+    .intro__list {
+        margin: 34px 16px 0 16px;
+        font-weight: 700;
+    }
+}

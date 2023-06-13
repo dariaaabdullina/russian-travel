@@ -1,6 +1,6 @@
 .intro__text {
-  width: 690px;
-  height: 208px;
+  max-width: 690px;
+  min-height: 208px;
   margin: 40px auto 0 148px;
   font-size: 1rem;
   font-weight: 400;
@@ -16,5 +16,12 @@
 @media (max-width: 1023px) {
   .intro__text {
     margin-left: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro__text {
+    margin: 40px 16px 0 16px;
+    
   }
 }

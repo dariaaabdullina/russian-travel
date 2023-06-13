@@ -1,11 +1,9 @@
 .header__lang-link_lang_ru {
     display: flex;
     margin: 46px 48px 0;
-    width: 29px;
-    height: 28px;
+    max-width: 29px;
+    min-height: 28px;
     font-weight: 400;
-    font-size: 1.5rem;
-    line-height: 28px;
     text-align: right;
     text-decoration: none;
 }
