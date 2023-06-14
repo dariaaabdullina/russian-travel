@@ -21,3 +21,10 @@
       margin-right: 24px;
     }
   }
+
+  @media (max-width: 767px) {
+    .place {
+      margin: 0;
+      flex-wrap: nowrap;
+    }
+  }
