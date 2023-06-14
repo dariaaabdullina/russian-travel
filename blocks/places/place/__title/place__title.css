@@ -6,7 +6,9 @@
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
-    margin: 0 0 48px 0;
+    margin: 0;
+    display: flex;
+    align-items: end;
 }
 
 @media (max-width: 1023px) {
@@ -22,8 +24,6 @@
         max-width: 288px;
         min-height: 35px;
         font-size: 32px;
-        line-height: 35px;
-        margin: 0 auto 32px 16px;
-        
+        line-height: 35px;  
     }
 }
