@@ -1,4 +1,4 @@
-.logo_place_header {
+.header__logo {
     margin-top: 28px;
     margin-left: 48px;
     max-width: 176px;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 767px) {
-    .logo_place_header {
+    .header__logo {
         max-width: 142px;
         min-height: 42px;
         margin-top: 16px;

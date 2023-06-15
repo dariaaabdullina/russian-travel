@@ -1,6 +1,5 @@
 .place__title {
     max-width: 460px;
-    min-height: 152px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
@@ -22,7 +21,6 @@
 @media (max-width: 767px) {
     .place__title {
         max-width: 288px;
-        min-height: 35px;
         font-size: 32px;
         line-height: 35px;  
     }
