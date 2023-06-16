@@ -4,8 +4,8 @@
     font-weight: 400;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Regular.woff)
-    url(../fonts/Inter-Regular.woff2);
+    url("../fonts/Inter-Regular.woff") format('woff')
+    url("../fonts/Inter-Regular.woff2") format('woff2');
   }
 
   @font-face {
@@ -14,8 +14,8 @@
     font-weight: 700;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Regular.woff)
-    url(../fonts/Inter-Regular.woff2);
+    url("../fonts/Inter-Regular.woff") format('woff')
+    url("../fonts/Inter-Regular.woff2") format('woff2');
   }
 
   @font-face {
@@ -24,8 +24,8 @@
     font-weight: 900;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Regular.woff)
-    url(../fonts/Inter-Regular.woff2);
+    url("../fonts/Inter-Regular.woff") format('woff')
+    url("../fonts/Inter-Regular.woff2") format('woff2');
   }
   
 @font-face {
@@ -34,8 +34,8 @@
     font-weight: 700;
     font-display: swap;
     src:
-    url(../fonts/Inter-Bold.woff2)
-    url(../fonts/Inter-Bold.woff);
+    url("../fonts/Inter-Bold.woff2") format('woff2')
+    url("../fonts/Inter-Bold.woff") format('woff');
   }
 
   @font-face {
@@ -44,8 +44,8 @@
     font-weight: 900;
     font-display: swap;
     src:
-    url(../fonts/Inter-Bold.woff2)
-    url(../fonts/Inter-Bold.woff);
+    url("../fonts/Inter-Bold.woff2") format('woff2')
+    url("../fonts/Inter-Bold.woff") format('woff');
   }
 
   @font-face {
@@ -54,8 +54,8 @@
     font-weight: 400;
     font-display: swap;
     src:
-    url(../fonts/Inter-Bold.woff2)
-    url(../fonts/Inter-Bold.woff);
+    url("../fonts/Inter-Bold.woff2") format('woff2')
+    url("../fonts/Inter-Bold.woff") format('woff');
   }
 
   @font-face {
@@ -64,8 +64,8 @@
     font-weight: 400;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Black.woff)
-    url(../fonts/Inter-Black.woff2);
+    url("../fonts/Inter-Black.woff") format('woff')
+    url("../fonts/Inter-Black.woff2") format('woff2');
   }
 
   @font-face {
@@ -74,8 +74,8 @@
     font-weight: 700;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Black.woff)
-    url(../fonts/Inter-Black.woff2);
+    url("../fonts/Inter-Black.woff") format('woff')
+    url("../fonts/Inter-Black.woff2") format('woff2');
   }
 
   @font-face {
@@ -84,6 +84,6 @@
     font-weight: 900;
     font-display: swap;
     src: 
-    url(../fonts/Inter-Black.woff)
-    url(../fonts/Inter-Black.woff2);
+    url("../fonts/Inter-Black.woff") format('woff')
+    url("../fonts/Inter-Black.woff2") format('woff2');
   }
