@@ -20,7 +20,7 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
-        padding: 88px 24px 0 24px;   
+        padding: 88px 24px 88px 24px;   
     }
 }
 
