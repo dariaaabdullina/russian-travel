@@ -3,8 +3,7 @@
     font-weight: 900;
     font-size: 54px;
     line-height: 58px;
-    margin-left: 148px;
-    margin-bottom: 0;
+    margin: 92px auto 0 148px;
 }
 
 @media (max-width: 1279px) {

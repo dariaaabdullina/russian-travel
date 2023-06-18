@@ -1,11 +1,12 @@
 .place {
-  margin: 0 148px 80px 148px;
+  margin: 0 148px 75px 148px;
+  padding: 0;
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-areas:
     "title website"
     "image paragraph";
-  column-gap: 40px;
+  column-gap: 38px;
   row-gap: 48px;
   max-height: 984px;
 }

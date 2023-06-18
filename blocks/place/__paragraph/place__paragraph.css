@@ -1,5 +1,6 @@
 .place__paragraph {
     margin: 0;
+    padding: 0;
     grid-area: paragraph;
     font-style: normal;
     font-weight: 400;
